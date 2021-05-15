@@ -89,6 +89,6 @@ for (let i = 0; i < operandsCount; i++) {
   }
 }
 
-console.log(`${expression} = ${result}`);
+alert(`${expression} = ${result}`);
 
 
